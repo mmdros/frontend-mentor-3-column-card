@@ -1,0 +1,18 @@
+@media screen and (max-width: 900px) {
+    main {
+    display: flex;
+    flex-direction: column; 
+    height: auto;
+ }
+    .card-1 {
+        border-radius: 10px 10px 0 0;
+    }
+
+    .card-2 {
+        border-radius: 0;
+    }
+
+    .card-3 {
+        border-radius: 0 0 10px 10px;
+    }
+}

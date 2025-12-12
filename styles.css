@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz,wght@10..72,100..900&family=Lexend+Deca:wght@100..900&display=swap');
+
+main {
+    display: flex;
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.card {
+    min-width: 300px;
+    max-width: 300px;
+    height: 450px;
+    font-weight: 400;
+}
+
+.card-1 {
+    --accent-color: hsl(31, 77%, 52%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 30px;
+    gap: 50px;
+    background-color: var(--accent-color);
+    border-radius: 10px 0 0 10px;
+    
+}
+
+.card-2 {
+    --accent-color: hsl(184, 100%, 22%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 30px;
+    gap: 50px;
+    background-color: var(--accent-color);
+    border-radius: 0 px;
+}
+
+.card-3 {
+    --accent-color: hsl(179, 100%, 13%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 30px;
+    gap: 50px;
+    background-color: var(--accent-color);
+    border-radius: 0 10px 10px 0;
+}
+
+.tittle {
+    color: #fff;
+    font-family: 'Big Shoulders', cursive;
+}
+
+.description {
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 1.5;
+}
+
+.button button {
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #fff;
+    color: var(--accent-color);
+}
+
+.card .button button:hover {
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid rgba(255,255,255,1);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}

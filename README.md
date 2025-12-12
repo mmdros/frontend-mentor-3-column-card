@@ -33,7 +33,7 @@ Os usuários devem conseguir:
 
 *(Adicione aqui o caminho da sua screenshot)*
 
-    ./images/desktop.png
+    ./images/desktop.jpg
     ./images/mobile (1).png
     ./images/mobile (2).png
 

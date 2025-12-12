@@ -31,11 +31,9 @@ Os usuários devem conseguir:
 
 ### 📸 Screenshot
 
-*(Adicione aqui o caminho da sua screenshot)*
-
-    ./images/desktop.jpg
-    ./images/mobile (1).png
-    ./images/mobile (2).png
+![Desktop preview](images/desktop.jpg)
+![Mobile preview 1](<images/mobile (1).png>)
+![Mobile preview 2](<images/mobile (2).png>)
 
 ### 🔗 Links
 

@@ -37,8 +37,8 @@ Os usuários devem conseguir:
 
 ### 🔗 Links
 
--   **Solução:** https://your-solution-url.com\
--   **Site ao vivo:** https://your-live-site-url.com
+-   **Solução:** [https://your-solution-url.com\](https://www.frontendmentor.io/solutions/fm-3-column-preview-card-wiA0J5dElY)
+-   **Site ao vivo:** [https://your-live-site-url.com](https://mmdros.github.io/frontend-mentor-3-column-card/)
 
 ## 🛠️ Meu Processo
 
